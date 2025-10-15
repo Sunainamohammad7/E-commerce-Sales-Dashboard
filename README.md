@@ -42,4 +42,6 @@ Key Questions Answered:
 5.What is the overall sales growth and profitability trend?
 
 Screenshot of dashboard:https://github.com/Sunainamohammad7/E-commerce-Sales-Dashboard/blob/main/E-commerce%20Sales%20Dashboard.png
+
+
 Example:https://github.com/Sunainamohammad7/E-commerce-Sales-Dashboard/blob/main/E-commerce%20sales_dashboard.pbit
